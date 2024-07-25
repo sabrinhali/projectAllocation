@@ -1,0 +1,161 @@
+
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+/* .form {
+    gap: 50px;
+    display: flex
+}
+
+textarea {
+    margin-top: 30px;
+    width: 600px;
+}
+
+
+
+.main {
+
+    padding: 12px;
+    margin-left: 20%;
+    transition: margin-left 0.7s;
+
+}
+
+.container {
+    
+    box-shadow: 0px 0px 3px grey;
+    padding: 18px;
+    border-radius: 6px;
+    background-color: white;
+}
+
+
+.box-parent {
+    display: flex;
+
+}
+
+.login-form {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form-lg {
+    margin-top: 60px;
+    padding: 30px;
+    background-color: #4263cf;
+    height: 300px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.form-lg input {
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.form-lg button {
+
+    margin-top: 40px;
+    padding: 10px 32px;
+    font-size: 22px;
+}
+
+
+
+/* .box {
+    padding-top: 60px;
+    background-color: coral;
+    height: 100px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 8px;
+    text-align: center;
+    
+
+} */
+
+/* 
+.parent{
+ gap:6%;
+ display: flex;
+ 
+} */
+
+
+
+/* .main table {
+    margin-top: 30px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.main table th {
+    padding: 12px;
+    background-color: lightblue;
+}
+
+.main table td {
+    font-size: 20px;
+    padding: 12px;
+    text-align: center;
+}
+
+
+
+.main table tr:nth-child(odd) {
+    background-color: #D8C4B6;
+} */
+
+/* .container a {
+
+     background-color: green; 
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+    color: indigo;
+    border-radius: 4px;
+} 
+
+
+.container input {
+    width: 900px;
+    margin: 12px;
+    padding: 8px;
+    outline: none;
+    border-radius: 4px;
+    border: 1px rgb(5, 46, 112) solid;
+}
+
+.container .button {
+    background-color: indigo;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 12px; 
+    border-radius: 6px;
+} 
+
+.deleteBtn {
+    border: none;
+    padding: 8px;
+    background-color: transparent;
+}  */
+
+/* .deleteBtn:hover {
+    cursor: pointer;
+    color: green;
+} */
+
+
+body {
+    background-color: rgb(212, 228, 233);
+}
